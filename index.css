@@ -12,7 +12,7 @@ body
 #PageHeader1
 {
    background-color: transparent;
-   background-image: url(https://cdn.rawgit.com/jcesar159/TVSD2/master/index_PageHeader1_bkgrnd.png);
+   background-image: url("https://cdn.rawgit.com/jcesar159/TVSD2/master/index_PageHeader1_bkgrnd.png");
    background-repeat: repeat-x;
    background-position: left top;
    -moz-box-sizing: border-box;
@@ -338,7 +338,7 @@ body
 #PageFooter1
 {
    background-color: transparent;
-   background-image: url(https://cdn.rawgit.com/jcesar159/TVSD2/master/index_PageFooter1_bkgrnd.png);
+   background-image: url("https://cdn.rawgit.com/jcesar159/TVSD2/master/index_PageFooter1_bkgrnd.png");
    background-repeat: repeat-x;
    background-position: left top;
    -moz-box-sizing: border-box;
